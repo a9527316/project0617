@@ -15,6 +15,7 @@
 		26FD62E71CA93CD50035AD72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 26FD62E51CA93CD50035AD72 /* LaunchScreen.storyboard */; };
 		26FD62F21CA93CD60035AD72 /* _1050480_ch6_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26FD62F11CA93CD60035AD72 /* _1050480_ch6_1Tests.swift */; };
 		26FD62FD1CA93CD60035AD72 /* _1050480_ch6_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26FD62FC1CA93CD60035AD72 /* _1050480_ch6_1UITests.swift */; };
+		26FD630B1CA93E8F0035AD72 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26FD630A1CA93E8F0035AD72 /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		26FD62F81CA93CD60035AD72 /* 01050480-ch6_1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "01050480-ch6_1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		26FD62FC1CA93CD60035AD72 /* _1050480_ch6_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1050480_ch6_1UITests.swift; sourceTree = "<group>"; };
 		26FD62FE1CA93CD60035AD72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		26FD630A1CA93E8F0035AD72 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				26FD62DC1CA93CD50035AD72 /* FirstViewController.swift */,
 				26FD62DE1CA93CD50035AD72 /* SecondViewController.swift */,
 				26FD62E01CA93CD50035AD72 /* Main.storyboard */,
+				26FD630A1CA93E8F0035AD72 /* ThirdViewController.swift */,
 				26FD62E31CA93CD50035AD72 /* Assets.xcassets */,
 				26FD62E51CA93CD50035AD72 /* LaunchScreen.storyboard */,
 				26FD62E81CA93CD60035AD72 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				26FD62DF1CA93CD50035AD72 /* SecondViewController.swift in Sources */,
 				26FD62DB1CA93CD50035AD72 /* AppDelegate.swift in Sources */,
+				26FD630B1CA93E8F0035AD72 /* ThirdViewController.swift in Sources */,
 				26FD62DD1CA93CD50035AD72 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
